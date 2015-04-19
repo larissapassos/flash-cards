@@ -1,6 +1,6 @@
 var app = angular.module('flashCards', []);
 
-app.value('whateverName', [
+/*app.value('whateverName', [
     {
         question: 'C. What is Angular?',
         answers: [
@@ -25,4 +25,6 @@ app.value('whateverName', [
             { text: 'It runs an Angular expression that accesses my $scope', correct: true }
         ]
     }
-]);
+]);*/
+
+
